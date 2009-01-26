@@ -1,0 +1,4 @@
+Server is in place:
+   Send the KEY first, followed by a new line.
+   Next, enter a command. This can be query, index, or shutdown.
+   Write whatever info will be needed to the socket. Once finished, write EOF or close the stream.
